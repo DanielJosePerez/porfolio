@@ -366,4 +366,4 @@ body.dark {
     to{
         transform: translateX(var(--skill-bar-length));
     }
-}
+} 
